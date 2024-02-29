@@ -37,7 +37,7 @@ header {
   background-color: #1b263b;
 }
 .hero{
-  background-image: url(../Images/bg.png);
+  background-image: url(assets/Images/bg.png);
   height: 100%;
   width: 100%;
 }
