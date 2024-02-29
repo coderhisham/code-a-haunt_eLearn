@@ -141,5 +141,13 @@ li {
 }
 
 main{
-  background-image: url();
+  display: flex;
+}
+
+.main1{
+  width: 50%;
+}
+
+.main2{
+  width: 50%;
 }
